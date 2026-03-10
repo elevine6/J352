@@ -1,0 +1,53 @@
+body {
+  background-color:#D2B2D6;
+}
+h1 {color: #D13DE3;
+font-family: "Noto Serif", serif;
+}
+
+h2 {color: #213172;
+font-family: "Playfair Display", serif;
+}
+
+p{color: #12CB0D;
+font-family: "Domine", serif;}
+
+.leadGraph {background-color: #000000; color: #ffffff; font-weight: bold; font-size: 2rem; padding: 20px;}
+
+.leadPhoto{margin: 30px 40px 600px 40px;}
+
+a {color: #F70E0E; text-decoration: none}
+
+.headerBox {
+  background-color: #B3B7F2;
+  text-align: center;
+  padding: 20px 50px 0 30px;
+}
+
+
+
+
+.noto-serif-<uniquifier> {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.domine-<uniquifier> {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
